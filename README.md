@@ -4,7 +4,7 @@ This project consists of a slackbot that uses a webcam directed to the entrance 
 # System diagram
 ![System Diagram](https://github.com/estefanytorres/bigbrother/blob/master/documentation/diagram.png "System Diagram")
 
-# Installation and setup (Under construction)
+# Installation and setup
 In order to install this bot locally and add it to your slack channel you must follow this steps. It has only been tested in Ubuntu 18.04 so far, the most complicated requirement is to build dlib and I did not try this on a windows OS.
 
 **1. Create your own app**
